@@ -1,2 +1,6 @@
 # Msc-project
 Deepfakedetection CapsNet
+
+As sophisticated AI methods have proliferated, deep fake technology has become a powerful instrument for producing artificial material that is remarkably lifelike, such as pictures, movies, and audio clips. Deep fake technology abuse, however, has given rise to serious worries about how it may be used to disseminate false information, sway public opinion, and erode confidence in visual media material. In response to these difficulties, this study investigates the use of Capsule Networks (CapsNets) for deepfake content detection with the goal of creating reliable and efficient techniques for separating real media from altered information. The domain of deep learning, specifically computer vision, had progressed exponentially leading to the advent of Generative Adversarial Networks which in turn had become the source for the problem of deep fake content generation. The misinformation could cause a lot of conflicts in all the domains in practice affecting not only the individuals but also groups and communities. The research work in this article aims at solving this problem by implementing a deep fake detection model using the enhanced CapsNet architecture and achieving state-of-the-art results on the standard benchmark datasets.
+
+
